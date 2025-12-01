@@ -1,4 +1,4 @@
-import NS from '../assets/Nosotros.jpg';
+import NS from '../assets/nosotros.jpg';
 import { RxDashboard } from "react-icons/rx";
 import { BsCashCoin } from "react-icons/bs";
 import { SiMaterialformkdocs } from "react-icons/si";
